@@ -1,0 +1,42 @@
+*.font: xft:SourceCodeVF:style=Semibold
+! Colours
+*.foreground: #ffffff
+*.background: [50]#5b4566
+*.depth: 32
+
+! black
+*.color0:       #303030
+*.color8:       #686868
+
+! red
+*.color1:       #d370a3
+*.color9:       #ffa7da
+
+! green
+*.color2:       #683f9e
+*.color10:      #9072d5
+
+! yellow
+*.color3:       #c288b1
+*.color11:      #d1a6d6
+
+! blue
+*.color4:       #6095c5
+*.color12:      #98cbfe
+
+! magenta
+*.color5:       #ac7bde
+*.color13:      #e5b0ff
+
+
+! cyan
+*.color6:       #994acd
+*.color14:      #a95aef
+
+! white
+*.color7:       #cfcfcf
+*.color15:      #ffffff
+
+!URxvt Specific
+URxvt.scrollBar: false
+URxvt.blurRadius: 10
